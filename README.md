@@ -34,4 +34,4 @@ where `hisplan2` should be replaced with your own GitHub username.
 
 ```bash
 git push -u origin master
-```
+```# bigmac-kiosk-demo
